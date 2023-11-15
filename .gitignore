@@ -1,0 +1,5 @@
+.env
+vendor
+/config/config.yaml
+
+/.vscode
